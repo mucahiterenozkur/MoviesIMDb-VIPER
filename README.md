@@ -2,7 +2,7 @@
 
 MoviesIMDb is fundamentally listing movies that are in the past, the latest ones and upcomings. This app consists of;
 
-✔️ **VIPER** Design Pattern, <br>
+✔️ **VIPER** Pattern, <br>
 ✔️ Auto Layout, <br>
 ✔️ Clean network layer, <br>
 ✔️ Alamofire, Kingfisher, <br>
@@ -21,7 +21,6 @@ MoviesIMDb is fundamentally listing movies that are in the past, the latest ones
 👉 This is my final project at Turkcell Geleceği Yazanlar iOS Bootcamp.<br>
 
 PS. Also, there is a full simulation video below the gifs. <br><br>
-NOT: Hocam ilk sayfada bazı film isimlerinden ve descriptionlardan sonra ... kısmını bilerek ayarladım truncated tail seçeneğinden. Hücrenin sağ tarafına koyduğum ok daha fazlasını göster manasına geliyor. Auto layout ile alakalı bir sorun değil yani. Geçenki kontrolden dolayı belirtmem gerektiğini düşündüm.<br> <br>
 
 | Part 1 | Part 2 | Part 3 | 
 | --- | --- | --- | 
