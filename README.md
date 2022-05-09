@@ -18,7 +18,7 @@ MoviesIMDb is fundamentally listing movies that are in the past, the latest ones
 ✔️ Tests, <br>
 ✔️ https://www.themoviedb.org is used, <br>
 
-👉 This is my final project at Turkcell Geleceği Yazanlar iOS Bootcamp.<br>
+👉 This is my final project at Turkcell Geleceği Yazanlar iOS Bootcamp. <br>
 
 PS. Also, there is a full simulation video below the gifs. <br><br>
 
